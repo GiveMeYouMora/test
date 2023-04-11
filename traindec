@@ -1,0 +1,77 @@
+# coins = 20
+# coins_machine = 0
+# sciganeno = 3
+# days = 365
+# for i in range(d):
+#    coins = coins + 10 - 3
+#   coins_machine += 10
+# print(coins_machine, 'всего получено монет')
+# print(sciganeno*7, 'всего забрала ворона')
+# print(coins, 'сколько у тебя всего монет(в данный момент)')
+
+# age = int(input())
+# if age == 10:
+#     print('Что будет, если клюква наденет штаны?Брюква!')
+# elif age == 11:
+#     print('Что скала зелёная виноградина синей? – Дыши!Дыши!')
+# if age == 12:
+#     print('“Что сказал 0 цифре 8? – Привет, ребята!')
+# elif age == 13:
+#     print('“Что такое сидит на потолке и хохочет? – Муха-хохотуха!')
+# else:
+#     print('ты либо зелёный либо переспелый')
+
+# purchase = ['Паучьи лапки', 'жабий палец', 'глаз тритона', 'крыло летучей мыши', 'жир слизня' , 'кожа змеи']
+# purchase.append('болотный газ')
+# purchase.append('мандрагора')
+# purchase.append('болиголов')
+# print(purchase)
+
+# weight = 16.5
+# dop_weight = 0.165
+# for i in range(15):
+#     weight = weight + dop_weight
+#     print(weight,'кг по лунному')
+
+# banks = 0
+# banks_all = 500
+# for i in range(250):
+#     banks += 2
+#     banks_all -= 2
+#     print(banks, 'расплюснуто банок')
+
+# class Giraffe:
+#     def __init__(self, name):
+#         self.name = 'Реджинальда'
+#         pass
+#     def left_foot_forward(self):
+#         print('Левая вперёд')
+#     def left_foot_back(self):
+#         print('Левая назад')
+#     def right_foot_forward(self):
+#         print('правая вперёд')
+#     def right_foot_back(self):
+#         print('правая назад')
+#     def all_aut(self):
+#         print('все вперёд')
+#     def all_back(self):
+#         print('все назад')
+#     def dance(self):
+#         print('Левая вперёд','Левая назад','правая вперёд','правая назад','Левая назад','правая назад','Левая вперёд','правая вперёд')
+# import turtle
+# from turtle import *
+# color('red', 'yellow')
+# turtle.right(45)
+# turtle.forward(100)
+# turtle.left(180)
+# turtle.forward(30)
+# turtle.left(90)
+# turtle.forward(30)
+# turtle.left(90)
+# turtle.forward(30)
+# turtle.left(180)
+# turtle.forward(30)
+# turtle.right(90)
+# turtle.forward(60)
+# turtle.right(90)
+# turtle.forward(30)
